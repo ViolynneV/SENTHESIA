@@ -1,0 +1,4 @@
+sasayaki这系列工作（ASSET‘10，CHI’11）有点奇怪，提到了用text-mining来分析整理reviews，实际上对于效果含糊其辞，evaluate的时候，task也不涉及这部分。
+猜测更多相关的文章，CSCW里可能会更多一点。
+Caption Crawler（CHI‘18）这篇利用其它网站对于同一张图片的描述
+Introducing Concept And Syntax Transition Networks for Image Captioning （ICMR‘16）偏技术，引入emotional和semantic维度
